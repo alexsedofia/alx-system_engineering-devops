@@ -1,2 +1,2 @@
 #!/bin/bash
-scho $(($BEST Schoo))
+echo $(($BEST School))
